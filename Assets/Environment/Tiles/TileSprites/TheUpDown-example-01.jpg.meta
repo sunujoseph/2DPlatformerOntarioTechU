@@ -1,0 +1,3451 @@
+fileFormatVersion: 2
+guid: 2e63d99a6cf07af4983458ed536d3214
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TheUpDown-example-01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2981.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7961a103fc93dcc4987ac1c0c74aba85
+      internalID: -238226043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2981.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60b6dc88e9e9a741b2a3fd5dab63658
+      internalID: -1152659770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_2
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2981.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1673176f1db18346af6412955daba93
+      internalID: 347794514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_3
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2981.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6a3fc14dccb7446b4f2eebe0323dc5
+      internalID: 575900732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_4
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2981.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a53a38499710246876ec3bd3e16e54
+      internalID: 636980792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_5
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2981.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b578f2fa0f466448244efc8f25d06b
+      internalID: 477002125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_6
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 2981.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f42eca81740ae4093c5ae58b6dffd9
+      internalID: -179755067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_7
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2981.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0db17d35769f384b81a0a614b7726a9
+      internalID: -855292539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_8
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2981.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2134e5c5671d7154f97477eaab1d2201
+      internalID: -2137258771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_9
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 2981.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52c38017b9e38f4197aecf664ad551f
+      internalID: 1133790595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_10
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 2981.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2833409229d8f40a1ba228e5033c90
+      internalID: 839765224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_11
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 2981.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ccab792d3b75f4b9ae30d2c8c44473
+      internalID: 1122235264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_12
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 2981.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c22828d21f928499b1b7aa877cf845
+      internalID: 1398251683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_13
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 2981.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690520ba236f38343af95a58c7b1819d
+      internalID: 582326383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_14
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 2981.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73188a64fa661214f8f96177a8dcf2d5
+      internalID: -2011797931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2650.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d360f90d031954da19bf4e6eef4364
+      internalID: 1469758042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2650.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd888432b4e33474e82486b268a51a89
+      internalID: 1608399474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_17
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2650.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae4bf4174f94074b91955bbf3c057e1
+      internalID: -29937342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_18
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2650.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b095ea9256364284f85df10fe8891a32
+      internalID: -872564985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_19
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2650.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65209f6816f577347b2665a5b98c04ed
+      internalID: 1045833135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_20
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2650.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c2aab52c1b86840b2187f0443b9477
+      internalID: 1973220795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_21
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 2650.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f9d3ccc12c87d41b6ec9c1a175da7b
+      internalID: -190249019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_22
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2650.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2eb70a83ee50ce4bbc94616cc991f4c
+      internalID: 1190921267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_23
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2650.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9f15cdca557e84f9826b33a740ab42
+      internalID: 1026248276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_24
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 2650.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb49f045002748d4ba6e7014f2f533e9
+      internalID: 789718435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_25
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 2650.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574513a2cdbcdfc47a5cf596fc85b504
+      internalID: -1105825575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_26
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 2650.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609a306aeff1a2f49babe63f204a37d5
+      internalID: -132102089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_27
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 2650.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9072cadb5ba052643a3afb6f27c6a256
+      internalID: 1879460469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_28
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 2650.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476dd1884df65674da105afd1337d592
+      internalID: 139272328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_29
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 2650.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fd3db49ef1466449f772387187d039
+      internalID: 1402646886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2319.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112db3de246d03349aa719afd28a47e1
+      internalID: 445098079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2319.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6d66db301b3674b9221e246aaff1a2
+      internalID: 545963310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_32
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2319.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57133c7a68063c41a12b982ed4966a1
+      internalID: 1247997482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_33
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2319.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135026e2191cd9c41b3ef683f5e11099
+      internalID: -2057794890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_34
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2319.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bc7cf9538c4bc439c295eec140c5bf
+      internalID: -502357524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_35
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2319.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac22696408fb495418b3c7bc0285396f
+      internalID: -1846084545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_36
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 2319.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d19eb3aee71a64b969feb7c6ca604c
+      internalID: 1722949018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_37
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2319.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f396fc9faeca4b4f96cab5b077574bc
+      internalID: 918322805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_38
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2319.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2cb93aab565b44e82f1e2c158aea14
+      internalID: -169951668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_39
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 2319.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aae887c478a2c84c981e1612fa54188
+      internalID: 344341392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_40
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 2319.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6615953fbdf392d4380f3e954732bfd8
+      internalID: 1219305662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_41
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 2319.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10061503e2a0604cae2a793426361fe
+      internalID: -1755316167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_42
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 2319.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a2a6da2778dd04e8e5eba586488e04
+      internalID: 1974837561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_43
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 2319.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0f6fc6b0a72d24fb37c11995ee4b9f
+      internalID: -287720569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_44
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 2319.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2515f20dd3a402b4795f4145997ebeab
+      internalID: 1990829717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1988.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b922b5eab883fc043a8c9e6b610fa903
+      internalID: 259400109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1988.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27633b2fa1d0ef9418f63b8d53f5385c
+      internalID: -499460248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_47
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1988.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe9d13671f1df940959ebc659299e7e
+      internalID: -73365766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_48
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1988.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79ad9836d43bcb4c92cee7f85ed16c0
+      internalID: 1126521453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_49
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1988.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9aececebd11594c8c2f3ec6da0143c
+      internalID: -1574588143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_50
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1988.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c5076bf925a204b9daad59bc8a8cce
+      internalID: -786984037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_51
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1988.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682998d0ce7aa8c429cfef965fccf2d2
+      internalID: -779124483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_52
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1988.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba69dace4e06f99498520083e4063cf3
+      internalID: 169475264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_53
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1988.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99734619a0c69fa4f8a0e10244406f3f
+      internalID: 1696871128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_54
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 1988.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32147818be80034c85e5b183f06323b
+      internalID: 1221261691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_55
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 1988.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae4d8c5b1d710c49adcd579de084be0
+      internalID: -1706992077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_56
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 1988.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913b3dd538f2e50468dc9d1aa29bb1b5
+      internalID: 329339458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_57
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 1988.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd2626f0e34b944a94b78d52679cb7d
+      internalID: -207185518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_58
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 1988.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7a8f30adf167d4bb4194edecba94cc
+      internalID: -398980015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_59
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 1988.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8893afa03afb86e46993ea663c1a236b
+      internalID: -114077626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1657.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10966edf5e89f1b4a89e29b617ecd64b
+      internalID: 523721899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_61
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1657.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1e117d684e00843b22213199bdea56
+      internalID: 1298570592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_62
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1657.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816f3bc5a06102c469f665f4d82d0a25
+      internalID: -664544543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_63
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1657.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c4a8de086072f40b74c6a4a0523688
+      internalID: 1903408869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_64
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1657.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860f2f8cb7756fb4db9db091dbbb33f9
+      internalID: 1588871199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_65
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1657.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7586dd86c49f7146b3553b3ba047021
+      internalID: 1800209116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_66
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1657.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95216a44fbe62884393b68e69850a207
+      internalID: -2080527260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_67
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1657.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e6b30c7487cf24c89e56aa2d80d07a
+      internalID: -1389750151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_68
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1657.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa67dd8e34c65347b80a3d5db64967d
+      internalID: -1596310292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_69
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 1657.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd707b973340f114eb72cf6ea61223c6
+      internalID: -1516424336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_70
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 1657.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c018e299924024fba7a01250a344be
+      internalID: 1953743402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_71
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 1657.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbec424bb6dfe6448b2de8eed0af10b
+      internalID: -1143192870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_72
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 1657.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5648875c8bdb23949a3d9de4cadf3bb8
+      internalID: -388755760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_73
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 1657.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5e9bbd27bc1924a9ab7ff043241d14
+      internalID: -1050138397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_74
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 1657.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83df6e999a2f884599d84a8e9a6a4a4
+      internalID: -1489317871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1326.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05ad1f295f5df1438f26b2c4ae2e5c2
+      internalID: 1426125758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_76
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1326.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db41130ed7b91ca44835d9754cde3fe6
+      internalID: 1640280212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_77
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1326.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da06fb97666f0c41adc6a8fb49360ac
+      internalID: -564513179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_78
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1326.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc372f1a7b8e66c41867858639534431
+      internalID: 849365362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_79
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1326.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fd9130210ac5745831e0ddb206d1f9
+      internalID: -2111966686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_80
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1326.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f5457dbc8fe114dacb1f64939d61b6
+      internalID: 1509522904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_81
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1326.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1511089e9e70fb347aba2c01e85fdc60
+      internalID: -22349975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_82
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1326.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436a150dd1070ba40921116cc115b18c
+      internalID: -869215635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_83
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1326.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8e822cfc63fdf4381acdf476ba81bc
+      internalID: 379794092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_84
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 1326.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1735e1150ea51a447bac417036f86ff0
+      internalID: 1779045077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_85
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 1326.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8243143bde9f730469ac5999c5dd4d8b
+      internalID: 723050135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_86
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 1326.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f2c1ebada66ae4c872a6f87ca000c5
+      internalID: 1829193775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_87
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 1326.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746cef98f22d339498722efb5429c7d4
+      internalID: 550977676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_88
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 1326.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1765d9dd156516b4b97171fc3fbb3d6f
+      internalID: -1238746936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_89
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 1326.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a14b28c33da28146aa5338bc20f99b1
+      internalID: -1289834561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 995.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e938a23bc4bfa04aacf0bd6df27fafa
+      internalID: 237493057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 995.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d842bcea19792194997eeaefee702f36
+      internalID: -11004125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_92
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 995.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51caa98bcb70e745bb9c2da3c33667f
+      internalID: -2074495953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_93
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 995.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49b867a71eebd94bbcf295718dcfb41
+      internalID: -1061331738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_94
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 995.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32b2b9beadce77418ea9a2861ee2edd
+      internalID: 1991666143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_95
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 995.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cd3cd51ebe07848911c1751c367775
+      internalID: 2141597219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_96
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 995.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ed96c08896b9446a50ca415f959f11
+      internalID: 762079532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_97
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 995.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d75e52afa789e747abb8c968d765722
+      internalID: 591596309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_98
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 995.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4629fffa93fcd347b6122e246692470
+      internalID: 1575913131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_99
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 995.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a375ac15d45724eb3e1385d57338bc
+      internalID: 74409705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_100
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 995.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71347b93e01b5642a7e189407fc6b5c
+      internalID: 573860704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_101
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 995.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0958490925c883747991a99b0fee99e1
+      internalID: 839951961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_102
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 995.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3556b75bd0275439bb04006b272685
+      internalID: -280064830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_103
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 995.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c65e5dc07ba3145852d65d5114bb79
+      internalID: -615325643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_104
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 995.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4caeb3f8455094b9194c946e883bc3
+      internalID: -1237158742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04237316bd42dd4e8e0023ca916f1ae
+      internalID: 738020469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_106
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 664.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ad6385d62a3d24680b2c33ec6c4815
+      internalID: 1001608604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 664.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441c9dbe934c9444d9327d9610b16f77
+      internalID: 584085349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_108
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 664.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e479cb15c7b8bc841a89623db6994751
+      internalID: -237104212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_109
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 664.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e50a174afb2984485ea5d619cdc45e
+      internalID: -201109932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_110
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 664.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3303cd49c7563c14385799e44b9a0f48
+      internalID: 1594829000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_111
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 664.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5ce723df69d314ebba19f8e881e4dc
+      internalID: -519451170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_112
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 664.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147930c7faae5a840853c05ccbbfa030
+      internalID: -1384702578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_113
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 664.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa059cb276e0394aa386984ad2b6e18
+      internalID: 1974973736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_114
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 664.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c48c3f191a6464d822f3c84c187020
+      internalID: 1013634749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_115
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 664.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b002e371dbf2848a7f5fcb662fb47a
+      internalID: -811602078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_116
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 664.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c034e1916ba4a4c9435fba84e26196
+      internalID: 1416873010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_117
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 664.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659acbbd4bfbdab4597cf25bdf55321a
+      internalID: 1506673014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_118
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 664.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918905fdabcb71048b30d0edde6a2662
+      internalID: 923282338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_119
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 664.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d3cd6f2a55ef044acb2d7376c2ef1e
+      internalID: 1110499005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c34b0f5c82d76b4ab8c3d844943c7dc
+      internalID: 1406243143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_121
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 333.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8250c7dacdbc41647ad046705abc9be2
+      internalID: -1518580446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_122
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 333.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cfb373c38520a4494906666b188d6c
+      internalID: 513658028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_123
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 333.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12dcc7dcc690814baf245572c3b6a51
+      internalID: -654327846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_124
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 333.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598830af573a6554f8867f0ea9e7730d
+      internalID: 1678482885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_125
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 333.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4b613c625f25646ba829420f9c3375
+      internalID: -965475148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_126
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 333.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52805b3b172412e46a2abb8a59788120
+      internalID: 707283051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_127
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 333.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d0fddded042f4458531bc84ffb200d
+      internalID: 1183518583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_128
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 333.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e62dc7f60353f42accc5c97a7315cd
+      internalID: 932367514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_129
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 333.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913dc28fb8fa0464e81249fda25da8e8
+      internalID: -1616374734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_130
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 333.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45753c83d65c2a49bbc9614f3eb759c
+      internalID: 1245896176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_131
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 333.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5071deb8551d4c6499f1cc556bacb02d
+      internalID: -704427697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_132
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 333.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c81f8c66636f0d48bfc6d9edd4bdca3
+      internalID: -2086471303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_133
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 333.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb2bbf6f31eb704497253a906be755d
+      internalID: 1607123479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_134
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 333.7
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238e3b36a50c569469504153154f6ea6
+      internalID: 1899713311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.7000122
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e894d97c55b48f469e69f9dd4dabe09
+      internalID: 664780779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_136
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2.7000122
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59f3495e13f7b3478eadd533d5edb48
+      internalID: 966920785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_137
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2.7000122
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4235bda9f2ab7ba4ba7cd6768a19ad09
+      internalID: -593622484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_138
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2.7000122
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bf5ca8a74cd404bb5470ef3ff64dd5
+      internalID: 444123971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_139
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2.7000122
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1436b84a92f7aa442a2e87aba7144740
+      internalID: 215445444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_140
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2.7000122
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8babf039b0a444980962694de967c2
+      internalID: 1561873036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_141
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 2.7000122
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84cb4e0717c1c34584e7fcc27cc19b1
+      internalID: -1474418197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_142
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2.7000122
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1113c3847a506b14898c65b3c22f9027
+      internalID: -1851207666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_143
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2.7000122
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6be02067c2859540a6bab2db53c0bd7
+      internalID: -1453423227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_144
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 2.7000122
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26da17a97fa1ad49bc957b7cf31a181
+      internalID: -138347118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_145
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 2.7000122
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e37eb2a7e6b474478ebacbe0c9223ea
+      internalID: -1050708954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_146
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 2.7000122
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92f0021ddfabdf48b5f1384e08fe1e6
+      internalID: -1069718923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_147
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 2.7000122
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8e3e8e9224bf1409618f956482e5cf
+      internalID: -719932205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_148
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 2.7000122
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed9d1f01ba288749a5d127577b38190
+      internalID: -1578693371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheUpDown-example-01_149
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 2.7000122
+        width: 352.4
+        height: 331.3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dea58f0712cdd04281d27c5c667c9ae
+      internalID: -1076722111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -2643, y: 1656.5}
+      - {x: -2643, y: -1656.5}
+      - {x: 2643, y: -1656.5}
+      - {x: 2643, y: 1656.5}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TheUpDown-example-01_9: 1133790595
+      TheUpDown-example-01_105: 738020469
+      TheUpDown-example-01_123: -654327846
+      TheUpDown-example-01_72: -388755760
+      TheUpDown-example-01_82: -869215635
+      TheUpDown-example-01_103: -615325643
+      TheUpDown-example-01_111: -519451170
+      TheUpDown-example-01_95: 2141597219
+      TheUpDown-example-01_107: 584085349
+      TheUpDown-example-01_120: 1406243143
+      TheUpDown-example-01_17: -29937342
+      TheUpDown-example-01_20: 1973220795
+      TheUpDown-example-01_13: 582326383
+      TheUpDown-example-01_25: -1105825575
+      TheUpDown-example-01_56: 329339458
+      TheUpDown-example-01_86: 1829193775
+      TheUpDown-example-01_80: 1509522904
+      TheUpDown-example-01_66: -2080527260
+      TheUpDown-example-01_28: 139272328
+      TheUpDown-example-01_85: 723050135
+      TheUpDown-example-01_127: 1183518583
+      TheUpDown-example-01_10: 839765224
+      TheUpDown-example-01_137: -593622484
+      TheUpDown-example-01_40: 1219305662
+      TheUpDown-example-01_104: -1237158742
+      TheUpDown-example-01_145: -1050708954
+      TheUpDown-example-01_112: -1384702578
+      TheUpDown-example-01_146: -1069718923
+      TheUpDown-example-01_12: 1398251683
+      TheUpDown-example-01_147: -719932205
+      TheUpDown-example-01_73: -1050138397
+      TheUpDown-example-01_6: -179755067
+      TheUpDown-example-01_88: -1238746936
+      TheUpDown-example-01_21: -190249019
+      TheUpDown-example-01_0: -238226043
+      TheUpDown-example-01_35: -1846084545
+      TheUpDown-example-01_8: -2137258771
+      TheUpDown-example-01_102: -280064830
+      TheUpDown-example-01_98: 1575913131
+      TheUpDown-example-01_70: 1953743402
+      TheUpDown-example-01_143: -1453423227
+      TheUpDown-example-01_96: 762079532
+      TheUpDown-example-01_22: 1190921267
+      TheUpDown-example-01_114: 1013634749
+      TheUpDown-example-01_27: 1879460469
+      TheUpDown-example-01_139: 215445444
+      TheUpDown-example-01_142: -1851207666
+      TheUpDown-example-01_87: 550977676
+      TheUpDown-example-01_94: 1991666143
+      TheUpDown-example-01_78: 849365362
+      TheUpDown-example-01_2: 347794514
+      TheUpDown-example-01_34: -502357524
+      TheUpDown-example-01_38: -169951668
+      TheUpDown-example-01_76: 1640280212
+      TheUpDown-example-01_132: -2086471303
+      TheUpDown-example-01_126: 707283051
+      TheUpDown-example-01_14: -2011797931
+      TheUpDown-example-01_50: -786984037
+      TheUpDown-example-01_71: -1143192870
+      TheUpDown-example-01_130: 1245896176
+      TheUpDown-example-01_7: -855292539
+      TheUpDown-example-01_131: -704427697
+      TheUpDown-example-01_62: -664544543
+      TheUpDown-example-01_67: -1389750151
+      TheUpDown-example-01_92: -2074495953
+      TheUpDown-example-01_69: -1516424336
+      TheUpDown-example-01_3: 575900732
+      TheUpDown-example-01_33: -2057794890
+      TheUpDown-example-01_60: 523721899
+      TheUpDown-example-01_53: 1696871128
+      TheUpDown-example-01_83: 379794092
+      TheUpDown-example-01_5: 477002125
+      TheUpDown-example-01_99: 74409705
+      TheUpDown-example-01_118: 923282338
+      TheUpDown-example-01_113: 1974973736
+      TheUpDown-example-01_97: 591596309
+      TheUpDown-example-01_140: 1561873036
+      TheUpDown-example-01_77: -564513179
+      TheUpDown-example-01_121: -1518580446
+      TheUpDown-example-01_23: 1026248276
+      TheUpDown-example-01_125: -965475148
+      TheUpDown-example-01_57: -207185518
+      TheUpDown-example-01_45: 259400109
+      TheUpDown-example-01_149: -1076722111
+      TheUpDown-example-01_47: -73365766
+      TheUpDown-example-01_148: -1578693371
+      TheUpDown-example-01_91: -11004125
+      TheUpDown-example-01_81: -22349975
+      TheUpDown-example-01_16: 1608399474
+      TheUpDown-example-01_51: -779124483
+      TheUpDown-example-01_101: 839951961
+      TheUpDown-example-01_117: 1506673014
+      TheUpDown-example-01_84: 1779045077
+      TheUpDown-example-01_119: 1110499005
+      TheUpDown-example-01_58: -398980015
+      TheUpDown-example-01_46: -499460248
+      TheUpDown-example-01_24: 789718435
+      TheUpDown-example-01_48: 1126521453
+      TheUpDown-example-01_44: 1990829717
+      TheUpDown-example-01_29: 1402646886
+      TheUpDown-example-01_54: 1221261691
+      TheUpDown-example-01_89: -1289834561
+      TheUpDown-example-01_133: 1607123479
+      TheUpDown-example-01_15: 1469758042
+      TheUpDown-example-01_11: 1122235264
+      TheUpDown-example-01_32: 1247997482
+      TheUpDown-example-01_79: -2111966686
+      TheUpDown-example-01_106: 1001608604
+      TheUpDown-example-01_110: 1594829000
+      TheUpDown-example-01_26: -132102089
+      TheUpDown-example-01_144: -138347118
+      TheUpDown-example-01_108: -237104212
+      TheUpDown-example-01_41: -1755316167
+      TheUpDown-example-01_52: 169475264
+      TheUpDown-example-01_1: -1152659770
+      TheUpDown-example-01_68: -1596310292
+      TheUpDown-example-01_134: 1899713311
+      TheUpDown-example-01_116: 1416873010
+      TheUpDown-example-01_59: -114077626
+      TheUpDown-example-01_49: -1574588143
+      TheUpDown-example-01_30: 445098079
+      TheUpDown-example-01_75: 1426125758
+      TheUpDown-example-01_37: 918322805
+      TheUpDown-example-01_115: -811602078
+      TheUpDown-example-01_135: 664780779
+      TheUpDown-example-01_31: 545963310
+      TheUpDown-example-01_74: -1489317871
+      TheUpDown-example-01_36: 1722949018
+      TheUpDown-example-01_138: 444123971
+      TheUpDown-example-01_90: 237493057
+      TheUpDown-example-01_100: 573860704
+      TheUpDown-example-01_55: -1706992077
+      TheUpDown-example-01_19: 1045833135
+      TheUpDown-example-01_39: 344341392
+      TheUpDown-example-01_61: 1298570592
+      TheUpDown-example-01_18: -872564985
+      TheUpDown-example-01_124: 1678482885
+      TheUpDown-example-01_128: 932367514
+      TheUpDown-example-01_136: 966920785
+      TheUpDown-example-01_4: 636980792
+      TheUpDown-example-01_64: 1588871199
+      TheUpDown-example-01_63: 1903408869
+      TheUpDown-example-01_109: -201109932
+      TheUpDown-example-01_141: -1474418197
+      TheUpDown-example-01_65: 1800209116
+      TheUpDown-example-01_93: -1061331738
+      TheUpDown-example-01_122: 513658028
+      TheUpDown-example-01_43: -287720569
+      TheUpDown-example-01_129: -1616374734
+      TheUpDown-example-01_42: 1974837561
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

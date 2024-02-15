@@ -1,0 +1,5427 @@
+fileFormatVersion: 2
+guid: 934a6aaf2e1a4f44fbcf2ebc7ba77b68
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InverseArrow-example_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac93e803ebd53c4dbae08516ec4a07b
+      internalID: -909503319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb4c2f159023b744b2ddf470b1124c6
+      internalID: -1899046490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7632a44e943e32540a3e9e0fb5f0a03e
+      internalID: 1260914361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c385b30d1dd054cb9c8c60bc4c06ac
+      internalID: -395394060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51076431af6ef04f98081dd7808948c
+      internalID: -1175661060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd611c40ec145646958694040737b42
+      internalID: -1003583070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8549c6803bdaa43be0c931ba66535a
+      internalID: 1496642058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f6a58fb8533a24bb344703b666e16a
+      internalID: -364204042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34097d172bef13c4b88a9f625a6f4e2c
+      internalID: 1093315895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1474a744b280c01479b78f811ddced1d
+      internalID: 1934627252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faad78948393ee4e8490526c0752efb
+      internalID: -221697665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_11
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eb99302ce6bf9419237dcf58f949e8
+      internalID: 800439216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_12
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33690a10c3988a04aabee23f6df82c28
+      internalID: 1542762263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_13
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e23c71d4fa75c24399d7ce24c09659e
+      internalID: -2099117531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8fb036b6980bf4b95f6e7c561b1c98
+      internalID: 1514207785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_15
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937b1676d1ef1594782a4e089c70d356
+      internalID: 139007066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_16
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3921123bdb50a4da3af5c2c0f597ef
+      internalID: -1874563374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_17
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4e84968c65c4d42a7ff133cb77301e
+      internalID: -1947704815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_18
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffac6f76689fd7743b594f13a3d10d45
+      internalID: -8293024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_19
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 3057
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cba6ced89301b8438c610162d3d8b58
+      internalID: 1211525724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596691a028a04bb43b37939535f247bb
+      internalID: 411534631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9ee4e4698753e4dab34e82665ecb15
+      internalID: -1852274665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7efe9a1c206e1499ac5d3a0340be81
+      internalID: -920570544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cf49472df43194b9650195b1d833d1
+      internalID: -1061094789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c515b288181c34baf3235e26e20880
+      internalID: 1407792051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_25
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fcb3bc9099d3242aed7901c4e13782
+      internalID: 321323628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_26
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca4b57e77f273147b5e3d8b82e63501
+      internalID: -933724771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_27
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1710ea9d13ff9349a0917b533402c3b
+      internalID: -1836058268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_28
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6babf6db12ec5684cb29eb434d4585fc
+      internalID: -1313401929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_29
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79cde9df6de6b649b3c1e8a9ca8ff0c
+      internalID: 1281739154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_30
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7018febc7d0bbb3459f236f799156463
+      internalID: -517826964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_31
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab12f1b2d8689e44ab583eb66ff99fb
+      internalID: -1946624040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_32
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fd0a0123c196341833830d0aca6775
+      internalID: -130122931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_33
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16ffcd5b58f3694e83c10f7460c23f4
+      internalID: -1534316406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_34
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fc4e7ef68a69740aec79ab6fca0aa5
+      internalID: -1823006681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_35
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0610da53073b545bf02d16b9b86f6d
+      internalID: 484903510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_36
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e96d4e82ed0fb6408188961323f2e87
+      internalID: 205020952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_37
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f241aa16343b1e46b4d2b1e99aaddf5
+      internalID: -1270085375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_38
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3696f69ae71cddc42aa4bb53e346c20b
+      internalID: -2122821531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_39
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 2801
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00659bfb273b66438c29563236e194a
+      internalID: 67913213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc87a419b29975488cd0b9352b429de
+      internalID: -25973522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948c9f01a41b38645bdbb32c28468ada
+      internalID: 1668336908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a5457e9fea07a4da96a3ab25275b98
+      internalID: 1118766063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_43
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7494e03c01e784ebd726338940e7cb
+      internalID: -894312842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa465bbe0c2c18498105177a781cdd9
+      internalID: -327528320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_45
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b915c29cbffb98c499485245514ad17f
+      internalID: 1347321340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_46
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29892b4bff225624cbd94d7477000ad1
+      internalID: 568935998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_47
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29088050b27f00409443866151a7a39
+      internalID: -1429539763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_48
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa90f879ff62c349b30100bce76b38d
+      internalID: -214962645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_49
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69bb1678786db74d9b32e05895a50de
+      internalID: -644278643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_50
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93422a1dd3d678d4db015193064fb51a
+      internalID: -318191903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_51
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d9f8fe65f9ed54bab0d62513312a1f
+      internalID: -1413957002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_52
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a233b21c8e901b7489652c84c76ca86a
+      internalID: 950277230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_53
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f52dc9750bdd048b2232edcb5042df
+      internalID: -1019266301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_54
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ccfc2fc29e87c49b7cf9602ed84ee8
+      internalID: 488056263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_55
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95b30cb8e27f0d419474102e3e60dce
+      internalID: 1700665260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_56
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cbc6bb19f9b6745a11ef90c359f2ad
+      internalID: -1979811984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_57
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c0cd6dc0463464683bd38274b799e6
+      internalID: -866563567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_58
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb1a775dbb6d6c48a6a8c2d5583cd03
+      internalID: -1825018089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_59
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 2545
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f009962c3326e049947036e43684a23
+      internalID: 1609631705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8702d54a65a9e41bd75b1425eacf05
+      internalID: 127804481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1818e2a590a906746831ea78ec38e17e
+      internalID: -1610914364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d454c62756060d241a7015a40829c3bf
+      internalID: -627550951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751fe82616a60ff4baa8ee595d827c95
+      internalID: 1655757760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_64
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b904a78509a09438027ba8b7dfc8a4
+      internalID: 1481452943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_65
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c700d363fe13204479e96c75287780f1
+      internalID: 1555792018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_66
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d97845a80ebd134ea58ba8dd761f647
+      internalID: 202078696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_67
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00aadb3d7b39874ab6396908f59fdc6
+      internalID: -1911327672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_68
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e57241d9c7adb4483c2486488cb949
+      internalID: 1873750195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_69
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d86ad0f7ef81984ea7824a0eb47145e
+      internalID: -1854757708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_70
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d40855d17105f248abb161982396757
+      internalID: 760030183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_71
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d209913d018ae7b4982bf2230964569b
+      internalID: 372668172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_72
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4064ca6360f349b46a589e81910dd80d
+      internalID: -12338907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_73
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b37c65c898b3d44853df843ae43d21
+      internalID: 807200310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_74
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1ed0c479798c24690761e99cf71ce8
+      internalID: -1234103765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_75
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f97ef2ec88be24798647dc956a9abf
+      internalID: 957975501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_76
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952946db8cc01884a9790a13797ad74d
+      internalID: 39758784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_77
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26a708136e0b1246ae7abec845d6180
+      internalID: 1595783930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_78
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725e7092188c31a41b4ae590735cc27f
+      internalID: 163688848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_79
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 2289
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2403cc10aa30024418c07a39ab8dace8
+      internalID: -233562169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569da0f151035914ebc2dbd99836325d
+      internalID: -1951529637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eb6ea1cf927d64981d3bf4b2414ca9
+      internalID: -1750750546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_82
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162deca662a17d4419b566dfb1ff4a9c
+      internalID: -1959891363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_83
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b809f2fd7f73d4297213a0c78ad8a9
+      internalID: 1410358588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_84
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4475709f261ca62408f781b0699b34bb
+      internalID: 136472720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_85
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2f9d3d3eab3f84d8ff4b5b225fb119
+      internalID: 361570097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_86
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b68da3d93b9b294f955745dcfb375f4
+      internalID: 98566866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_87
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc87b641c56e0c54e8888201f7908d67
+      internalID: -1898940454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_88
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3867ff4a064f54488675e7ababdc0a
+      internalID: 711109278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_89
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a424a0da7d0b8b34aaa753a71862e724
+      internalID: -767729666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_90
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4379c5e22529343b1d10121b749b3a
+      internalID: -562372233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_91
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e3263d46b32674d8da6aec4a4ec5ab
+      internalID: -1201492334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_92
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a192b909ccdac5b44add122d524fa17e
+      internalID: 2110441247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_93
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e279459936270746a96d4aa2d753476
+      internalID: 1540498197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_94
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d164cf625ba1af542be010973742edb3
+      internalID: -403296795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_95
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305aebec9a4ed8b44851a4684f350fa0
+      internalID: 838028158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_96
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c637546d20cba41adac73ea1a17dd9
+      internalID: 339888343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_97
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf602229caea2b49be8cda8c29ac5a8
+      internalID: 2030096368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_98
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e1301fbdba99340a7189434556daf5
+      internalID: 452024096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_99
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 2033
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ae50844b2714a4e8a3795b1643c437
+      internalID: -962071277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b22d8ee5ecfc0244979f32e6bd82c55
+      internalID: -623883233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_101
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65cb49a689a77f45b8ba65fbd2c2e5b
+      internalID: 19300389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_102
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4938f2ecd57e3fa4cb1896b689d2d085
+      internalID: -937602051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_103
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80afaae0d1e7744b97c583d98222563
+      internalID: -844742283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_104
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4621e8e072c65904ca44197c7e851e93
+      internalID: 1519180056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_105
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4846f33980139046adda5adb360903c
+      internalID: -1278812438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_106
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7ec08677de6fe4388c1d5da53e0d74
+      internalID: -47463857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_107
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24273c9598ca1c408178a062d395e69
+      internalID: 1394229684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_108
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edcec60c24406e4abe3bf1079cb7201
+      internalID: 75428252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_109
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7282a4633025ac4eb6ed0982e637c96
+      internalID: 366749889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_110
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52edd56f11d89142a244cf0190b872a
+      internalID: 1402534560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_111
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e951be64c5f6647828867656c88cf5
+      internalID: 520199728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_112
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e64d5c583edc5745acd1b8a78453e56
+      internalID: 871346535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_113
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02860e4686f207a4490e942faace933d
+      internalID: 1586424614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_114
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c50d0d9f42d174f97ea92390ffe3d0
+      internalID: 830335818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_115
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b514d146ee2f7a42ac9c3d35858f147
+      internalID: -2027586127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_116
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee791705ffce0e47b2cc3fcc7e948d7
+      internalID: -409910697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_117
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51a7f5ce3d30cc42ab740b32b9071a9
+      internalID: 313333556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_118
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fcba18df22d5b418df62076581f1e4
+      internalID: 789638830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_119
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 1777
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f040d69091e9ddc44ab52ce489f4fb4d
+      internalID: 774955302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e702fa04bf8ad41b51aab50d5da71a
+      internalID: 927608005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_121
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a62f42f90a82c4aa710a9130263110
+      internalID: -1855581778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_122
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18617a4d4461ea4299ca74a057ad1ad
+      internalID: 1491752392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_123
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78da133b2b0c6e45a63274b22bc03f6
+      internalID: 1973020068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_124
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36e9e0e62fb65549bdbd3a30e7d8186
+      internalID: -654432286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_125
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5243e6563b1c64b90d6cbebaabfb87
+      internalID: 685690686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_126
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1959aa19571e6645a5248ed298521bb
+      internalID: -1558262743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_127
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931bfc1fa9ef3394daf8df814d73e860
+      internalID: -1449967982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_128
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3219d3d828f1c94cb1439ccd296f46a
+      internalID: 958838011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_129
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad758421ca9f4b845a269d0e1a46964d
+      internalID: -1666222074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_130
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145676b3879a1194e93dcb7e79da98d3
+      internalID: -329347468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_131
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66bc00186e9d8d47ba5666f40046a04
+      internalID: 1050713909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_132
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99af8eb04e0ddbc4fa68cebed2266930
+      internalID: 80860983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_133
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ab468dccccdfb4e89fceae09d8a019
+      internalID: 1714811739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_134
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44ee1c5a7c9ef0468e8193b512feeb0
+      internalID: -526945880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_135
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b433f111cd46c3147b198277d5dd9c94
+      internalID: -1689726179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_136
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7324b9291c9993047a274648c5b703e3
+      internalID: -1645619523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_137
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2d578991b81c843b9ce2bead50e6be
+      internalID: -371799838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_138
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a65e25cfcc82004891f1ccc9669e171
+      internalID: 541762707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_139
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 1521
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df13df64dfe3b704fb5e96361dfb4661
+      internalID: -464249922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b8295068e302140abea647b9ead35f
+      internalID: -1242816708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_141
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdec65341a0136b4ba804e6997c72467
+      internalID: 328933328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_142
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1092ae7044c1a74469622f0227f2bf1a
+      internalID: -1063295435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_143
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1ffd08f1bb7c94f8ee8153f04cfc2b
+      internalID: 958325529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_144
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d111a438ba346a9488f2e5d3ae869792
+      internalID: -2082833968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_145
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c83d52cb5166c7459240b7e84828fc3
+      internalID: 715885322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_146
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18de4cd61536f2f498d65cfbb19a2b44
+      internalID: 1604256634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_147
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c912ab0e1ec4d244fa6a2cbf7ea77723
+      internalID: -1170211543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_148
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54ebc41a4dd4d84aaf440e04cb19240
+      internalID: -685519641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_149
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706245fd09a79f14290cfa545eddc89e
+      internalID: 667816284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_150
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fe83ce97fcd984ab16f92b17039c84
+      internalID: 1437034434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_151
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960b6a7c733e41e4aa583dd680ab1632
+      internalID: 1164604056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_152
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26099cb220848f043910d62f521c6409
+      internalID: 1796033066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_153
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01b04508422c2f44a016f17e0f65eaa
+      internalID: 1803861947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_154
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88beb6aa2154d674085148f162339c9b
+      internalID: 2041754796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_155
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368194b445fc6014b97ab865d60106a7
+      internalID: 534084817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_156
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7044004938c897444a7ed0e0a4c73788
+      internalID: -1083770266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_157
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88fb27702e5b9644b2594a6ed2610ff
+      internalID: -1326648984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_158
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56623dcf07836434fa025e81682765ce
+      internalID: -670967668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_159
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 1265
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aec90e2b19b4e945b8d2a8d560adf0e
+      internalID: 1896916625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4201877a0864f1a4b866cd33c078b06a
+      internalID: -1292873457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_161
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50eb33cc38edd2346874b3e3c9e93c53
+      internalID: -1884710480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_162
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34118f8c838358b47868199f55815d0e
+      internalID: 1535267089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_163
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b46ce9a7cb0a643a09b006bb9cc6f2
+      internalID: 1724159810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_164
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47304c11d0fe37e439498c4086cb62d3
+      internalID: -947399322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_165
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f634039b6cfef84c9b6a8395e66c61f
+      internalID: 1861527605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_166
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629d537f7b372534d8e9828ca3f1a1bb
+      internalID: -1178339886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_167
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf7bc7654de1a442a659d838e68f916
+      internalID: 1047671749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_168
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410d0da4e25d3e34ead983f06af94488
+      internalID: -1806733126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_169
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5da03c02c8ad894b836f0353221b790
+      internalID: -431488806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_170
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a144c490d1c315e4d9f7288a5ec510fc
+      internalID: 63443811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_171
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030773de59023ac47ad2da67183c5bc0
+      internalID: -1662417841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_172
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ec847251c0fae409277036d1234806
+      internalID: 2067318381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_173
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87af6385db4c1a45afe574610c325fb
+      internalID: -1720236591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_174
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8309e71dfe36343a9cfcff0831ba7e
+      internalID: -449951370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_175
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf541d2217e4664f83446cae262e9e1
+      internalID: 229076437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_176
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cf30a6026d8274cbb04c31570afb39
+      internalID: 1370731787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_177
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cfd2e5c164a38449cd8485493b3ee0
+      internalID: 443808180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_178
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e601bc7fb778543983e843af4724fe
+      internalID: 317948821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_179
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 1009
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b64d3f32997d4b4db984742aabc2263
+      internalID: -940030287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f37fca1c7555e48ae48a2044f1ce4a
+      internalID: -796227577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_181
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8868676dabcca6f4d97fa1faaa902f83
+      internalID: -1460486559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_182
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aee04ea35399841951472f4983fd41
+      internalID: -191181030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_183
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1097a4d436ce7c4bb50894e185cacb4
+      internalID: -1722030933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_184
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3bde6e029fc424382da944ca51cb44
+      internalID: -918803448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_185
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b2464370dc5e041a04163367c12f7b
+      internalID: 1677178221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_186
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9121329d8b1133045a5934736df40bdc
+      internalID: 1463881882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_187
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7723477b26dedde499521c0da3d33e08
+      internalID: 1389866086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_188
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735cea4aa85163842ade9efcfaf46701
+      internalID: 1496394252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_189
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7000dd2e336864ca928de1ba46611d
+      internalID: -2133782601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_190
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340eb1ce66ae1774785d0b070b472885
+      internalID: 1430863538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_191
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65acb9697354c354cb520b419f73501e
+      internalID: 1073238060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_192
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60ce703791f89848af4ea39987b927e
+      internalID: 772899346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_193
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca50b1ddcb6d9274cbe8116f365e57f5
+      internalID: -1423619089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_194
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa6f6e0273c3d14aa385ec58ca9f7f7
+      internalID: 893208478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_195
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388c0197cb84bca4ead6c272a08e95d6
+      internalID: -2061506633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_196
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a93c1c1d7ab7254a95b8c6de2180991
+      internalID: -81985087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_197
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7394078f53ba4194a922577c6663cb18
+      internalID: -1005058390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_198
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e5f214662c6a54a96b4e89995daf39
+      internalID: -305243571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_199
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 753
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cb521e173d92f41a67704065b6d1b9
+      internalID: -947535604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56981424c979fa54d9d81a4501869bc1
+      internalID: -272049372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_201
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524507d5c230153478275d7c26e20863
+      internalID: -1172047244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_202
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29730bf4d45205a47813470335566674
+      internalID: 1305014943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_203
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306c3093649545c4bad85b1afd5f00fb
+      internalID: -1564364975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_204
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e765cc6d6f7344c98ad2af3815ce46
+      internalID: 2046356529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_205
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ca5e00ea9786047868157aaeaf6adb
+      internalID: -2122609152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_206
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86071cd2bc7404c4aa6255caa7f51c43
+      internalID: -1478196525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_207
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbbe761e77ce8d48b3ad8188c8a8ba7
+      internalID: 1275668853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_208
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db642468f711ad4f92d48719d47fc20
+      internalID: 2092939492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_209
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bd14445eb9db94ca2a09db1bae754c
+      internalID: -1426315920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_210
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038a980efaa83c2468cda93a76e0d36a
+      internalID: 1488757430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_211
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384c613dc0e28524ba1165c89a4e6f7b
+      internalID: 1406949533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_212
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068d1d971c6f5114d9b0dc8fb5fa21f3
+      internalID: -1206122069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_213
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df382f4d3bc38349b98fbb96a6ca5b9
+      internalID: 1938323018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_214
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91709dea5af42fd42a8e7eb74a49b393
+      internalID: -1960315650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_215
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf6e81e865cfa94b83eee683b6d199a
+      internalID: -1264203360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_216
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee567f4a8841a2d418cc42c1ec398fd1
+      internalID: 395773845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_217
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e62b4251691974c9b9c1203a1f1e87
+      internalID: 2017807993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_218
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720121cb22212c143aeaf7d94c3a42e9
+      internalID: 1625949354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_219
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 497
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0775d0a6971b34082c23553c0ef6ad
+      internalID: -317344391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c3eeda1ca0c6b4fb25a06815a3ea40
+      internalID: -324552591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_221
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2d68ebc5ee80f4abadc48dd3c63739
+      internalID: -1835852434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_222
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80e1cac64fc24548a507252d639b0c2
+      internalID: -1939428254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_223
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1325e017dd6b46241956b8e08887595b
+      internalID: 6151285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_224
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f87290145c21e54c8747ac46f4d8061
+      internalID: -64079501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_225
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0534b39114dd22e41ba531b9bca48378
+      internalID: 1585619959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_226
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca8635d40499f84f8ef2e2226f1e721
+      internalID: 43675682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_227
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c65df8ee78b3d4296a9f8c1dcc3416
+      internalID: 1095927180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_228
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f872ff2285add4ead8f8934afcd9ac
+      internalID: 1419167210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_229
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e081b7962364d349ac4062d02bb8989
+      internalID: 730940947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_230
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eaca2779b8b804d94455de293c5c85
+      internalID: -1282644837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_231
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1191477d125ab3e4c9de28be0864a641
+      internalID: 1700991760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_232
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479a2b885cc94f74c8168e913b6c2e50
+      internalID: 1995165982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_233
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504c8bdcbab9e7a4085d910f9f4ddaef
+      internalID: 585641859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_234
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc87eef8df13e944a7a9cf7a4e38a7e
+      internalID: -108956272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_235
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e1044229449c94b8afe8d16f454536
+      internalID: -1151033974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_236
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a3c55d1c41f974194edbf0eebdf216
+      internalID: -1063964922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_237
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b800b11cd157af9489e444a2d9a41d0e
+      internalID: 580185047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_238
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380971b929659f241af3101e09272612
+      internalID: 1567607872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InverseArrow-example_239
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 241
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3294209dbe9064ebaedce6e8c38fbe
+      internalID: -1086517322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      InverseArrow-example_100: -623883233
+      InverseArrow-example_162: 1535267089
+      InverseArrow-example_22: -920570544
+      InverseArrow-example_106: -47463857
+      InverseArrow-example_6: 1496642058
+      InverseArrow-example_109: 366749889
+      InverseArrow-example_203: -1564364975
+      InverseArrow-example_123: 1973020068
+      InverseArrow-example_231: 1700991760
+      InverseArrow-example_164: -947399322
+      InverseArrow-example_194: 893208478
+      InverseArrow-example_7: -364204042
+      InverseArrow-example_132: 80860983
+      InverseArrow-example_130: -329347468
+      InverseArrow-example_105: -1278812438
+      InverseArrow-example_156: -1083770266
+      InverseArrow-example_45: 1347321340
+      InverseArrow-example_58: -1825018089
+      InverseArrow-example_146: 1604256634
+      InverseArrow-example_114: 830335818
+      InverseArrow-example_157: -1326648984
+      InverseArrow-example_150: 1437034434
+      InverseArrow-example_85: 361570097
+      InverseArrow-example_213: 1938323018
+      InverseArrow-example_1: -1899046490
+      InverseArrow-example_139: -464249922
+      InverseArrow-example_39: 67913213
+      InverseArrow-example_38: -2122821531
+      InverseArrow-example_233: 585641859
+      InverseArrow-example_199: -947535604
+      InverseArrow-example_208: 2092939492
+      InverseArrow-example_142: -1063295435
+      InverseArrow-example_93: 1540498197
+      InverseArrow-example_152: 1796033066
+      InverseArrow-example_89: -767729666
+      InverseArrow-example_0: -909503319
+      InverseArrow-example_176: 1370731787
+      InverseArrow-example_186: 1463881882
+      InverseArrow-example_180: -796227577
+      InverseArrow-example_94: -403296795
+      InverseArrow-example_153: 1803861947
+      InverseArrow-example_167: 1047671749
+      InverseArrow-example_25: 321323628
+      InverseArrow-example_108: 75428252
+      InverseArrow-example_116: -409910697
+      InverseArrow-example_72: -12338907
+      InverseArrow-example_173: -1720236591
+      InverseArrow-example_10: -221697665
+      InverseArrow-example_4: -1175661060
+      InverseArrow-example_49: -644278643
+      InverseArrow-example_158: -670967668
+      InverseArrow-example_104: 1519180056
+      InverseArrow-example_29: 1281739154
+      InverseArrow-example_78: 163688848
+      InverseArrow-example_14: 1514207785
+      InverseArrow-example_36: 205020952
+      InverseArrow-example_236: -1063964922
+      InverseArrow-example_160: -1292873457
+      InverseArrow-example_77: 1595783930
+      InverseArrow-example_235: -1151033974
+      InverseArrow-example_234: -108956272
+      InverseArrow-example_159: 1896916625
+      InverseArrow-example_62: -627550951
+      InverseArrow-example_175: 229076437
+      InverseArrow-example_61: -1610914364
+      InverseArrow-example_127: -1449967982
+      InverseArrow-example_206: -1478196525
+      InverseArrow-example_209: -1426315920
+      InverseArrow-example_42: 1118766063
+      InverseArrow-example_228: 1419167210
+      InverseArrow-example_55: 1700665260
+      InverseArrow-example_121: -1855581778
+      InverseArrow-example_3: -395394060
+      InverseArrow-example_16: -1874563374
+      InverseArrow-example_32: -130122931
+      InverseArrow-example_34: -1823006681
+      InverseArrow-example_177: 443808180
+      InverseArrow-example_92: 2110441247
+      InverseArrow-example_98: 452024096
+      InverseArrow-example_28: -1313401929
+      InverseArrow-example_101: 19300389
+      InverseArrow-example_169: -431488806
+      InverseArrow-example_48: -214962645
+      InverseArrow-example_124: -654432286
+      InverseArrow-example_221: -1835852434
+      InverseArrow-example_145: 715885322
+      InverseArrow-example_188: 1496394252
+      InverseArrow-example_59: 1609631705
+      InverseArrow-example_227: 1095927180
+      InverseArrow-example_31: -1946624040
+      InverseArrow-example_191: 1073238060
+      InverseArrow-example_17: -1947704815
+      InverseArrow-example_184: -918803448
+      InverseArrow-example_5: -1003583070
+      InverseArrow-example_212: -1206122069
+      InverseArrow-example_161: -1884710480
+      InverseArrow-example_137: -371799838
+      InverseArrow-example_198: -305243571
+      InverseArrow-example_230: -1282644837
+      InverseArrow-example_238: 1567607872
+      InverseArrow-example_90: -562372233
+      InverseArrow-example_113: 1586424614
+      InverseArrow-example_83: 1410358588
+      InverseArrow-example_239: -1086517322
+      InverseArrow-example_134: -526945880
+      InverseArrow-example_163: 1724159810
+      InverseArrow-example_82: -1959891363
+      InverseArrow-example_154: 2041754796
+      InverseArrow-example_179: -940030287
+      InverseArrow-example_202: 1305014943
+      InverseArrow-example_168: -1806733126
+      InverseArrow-example_69: -1854757708
+      InverseArrow-example_115: -2027586127
+      InverseArrow-example_151: 1164604056
+      InverseArrow-example_110: 1402534560
+      InverseArrow-example_217: 2017807993
+      InverseArrow-example_207: 1275668853
+      InverseArrow-example_71: 372668172
+      InverseArrow-example_201: -1172047244
+      InverseArrow-example_189: -2133782601
+      InverseArrow-example_223: 6151285
+      InverseArrow-example_102: -937602051
+      InverseArrow-example_138: 541762707
+      InverseArrow-example_13: -2099117531
+      InverseArrow-example_190: 1430863538
+      InverseArrow-example_178: 317948821
+      InverseArrow-example_196: -81985087
+      InverseArrow-example_99: -962071277
+      InverseArrow-example_140: -1242816708
+      InverseArrow-example_185: 1677178221
+      InverseArrow-example_187: 1389866086
+      InverseArrow-example_43: -894312842
+      InverseArrow-example_172: 2067318381
+      InverseArrow-example_107: 1394229684
+      InverseArrow-example_135: -1689726179
+      InverseArrow-example_97: 2030096368
+      InverseArrow-example_181: -1460486559
+      InverseArrow-example_148: -685519641
+      InverseArrow-example_40: -25973522
+      InverseArrow-example_23: -1061094789
+      InverseArrow-example_66: 202078696
+      InverseArrow-example_33: -1534316406
+      InverseArrow-example_9: 1934627252
+      InverseArrow-example_131: 1050713909
+      InverseArrow-example_103: -844742283
+      InverseArrow-example_80: -1951529637
+      InverseArrow-example_197: -1005058390
+      InverseArrow-example_120: 927608005
+      InverseArrow-example_87: -1898940454
+      InverseArrow-example_19: 1211525724
+      InverseArrow-example_225: 1585619959
+      InverseArrow-example_166: -1178339886
+      InverseArrow-example_171: -1662417841
+      InverseArrow-example_27: -1836058268
+      InverseArrow-example_64: 1481452943
+      InverseArrow-example_229: 730940947
+      InverseArrow-example_74: -1234103765
+      InverseArrow-example_183: -1722030933
+      InverseArrow-example_37: -1270085375
+      InverseArrow-example_182: -191181030
+      InverseArrow-example_46: 568935998
+      InverseArrow-example_57: -866563567
+      InverseArrow-example_11: 800439216
+      InverseArrow-example_88: 711109278
+      InverseArrow-example_30: -517826964
+      InverseArrow-example_165: 1861527605
+      InverseArrow-example_133: 1714811739
+      InverseArrow-example_2: 1260914361
+      InverseArrow-example_84: 136472720
+      InverseArrow-example_35: 484903510
+      InverseArrow-example_143: 958325529
+      InverseArrow-example_193: -1423619089
+      InverseArrow-example_65: 1555792018
+      InverseArrow-example_144: -2082833968
+      InverseArrow-example_41: 1668336908
+      InverseArrow-example_51: -1413957002
+      InverseArrow-example_26: -933724771
+      InverseArrow-example_125: 685690686
+      InverseArrow-example_119: 774955302
+      InverseArrow-example_91: -1201492334
+      InverseArrow-example_96: 339888343
+      InverseArrow-example_117: 313333556
+      InverseArrow-example_112: 871346535
+      InverseArrow-example_224: -64079501
+      InverseArrow-example_79: -233562169
+      InverseArrow-example_24: 1407792051
+      InverseArrow-example_20: 411534631
+      InverseArrow-example_52: 950277230
+      InverseArrow-example_200: -272049372
+      InverseArrow-example_219: -317344391
+      InverseArrow-example_122: 1491752392
+      InverseArrow-example_237: 580185047
+      InverseArrow-example_226: 43675682
+      InverseArrow-example_60: 127804481
+      InverseArrow-example_73: 807200310
+      InverseArrow-example_47: -1429539763
+      InverseArrow-example_210: 1488757430
+      InverseArrow-example_15: 139007066
+      InverseArrow-example_192: 772899346
+      InverseArrow-example_174: -449951370
+      InverseArrow-example_86: 98566866
+      InverseArrow-example_67: -1911327672
+      InverseArrow-example_141: 328933328
+      InverseArrow-example_18: -8293024
+      InverseArrow-example_95: 838028158
+      InverseArrow-example_155: 534084817
+      InverseArrow-example_126: -1558262743
+      InverseArrow-example_216: 395773845
+      InverseArrow-example_76: 39758784
+      InverseArrow-example_128: 958838011
+      InverseArrow-example_53: -1019266301
+      InverseArrow-example_81: -1750750546
+      InverseArrow-example_70: 760030183
+      InverseArrow-example_214: -1960315650
+      InverseArrow-example_56: -1979811984
+      InverseArrow-example_44: -327528320
+      InverseArrow-example_111: 520199728
+      InverseArrow-example_195: -2061506633
+      InverseArrow-example_12: 1542762263
+      InverseArrow-example_149: 667816284
+      InverseArrow-example_8: 1093315895
+      InverseArrow-example_205: -2122609152
+      InverseArrow-example_136: -1645619523
+      InverseArrow-example_170: 63443811
+      InverseArrow-example_211: 1406949533
+      InverseArrow-example_75: 957975501
+      InverseArrow-example_218: 1625949354
+      InverseArrow-example_215: -1264203360
+      InverseArrow-example_204: 2046356529
+      InverseArrow-example_63: 1655757760
+      InverseArrow-example_220: -324552591
+      InverseArrow-example_21: -1852274665
+      InverseArrow-example_54: 488056263
+      InverseArrow-example_147: -1170211543
+      InverseArrow-example_222: -1939428254
+      InverseArrow-example_129: -1666222074
+      InverseArrow-example_232: 1995165982
+      InverseArrow-example_68: 1873750195
+      InverseArrow-example_118: 789638830
+      InverseArrow-example_50: -318191903
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
