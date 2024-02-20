@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using AnotherFileBrowser.Windows;
+//using AnotherFileBrowser.Windows;
 using UnityEngine.Networking;
 using UnityEngine.UI;
 using System.IO;
@@ -19,9 +19,34 @@ public class FileManagerUpdate : MonoBehaviour
 
     void Start()
     {
-        StartCoroutine(LoadAnimations());    
-        
+        StartCoroutine(LoadAnimations());
+        //LoadAnimationsFromResources();
+
     }
+
+    void LoadAnimationsFromResources()
+    {
+        
+
+        string targetCharacterFolder = CharacterTracker.instance.getMyPath();
+        string[] AllAnimationFolders = Directory.GetDirectories(targetCharacterFolder);
+
+        for (int i = 0; i < AllAnimationFolders.Length; i++)
+        {
+
+            string targetAnimationFolder = AllAnimationFolders[i];
+            //string[] animationPaths = Directory.GetFiles(targetAnimationFolder);
+            //yield return StartCoroutine(loadImageArray(animationPaths, Path.GetFileName(targetAnimationFolder)));
+            Object[] objects = Resources.LoadAll(targetAnimationFolder, typeof(Sprite));
+
+            for (int j = 0; j < objects.Length; j++)
+            {
+                Debug.Log(objects[j].name);
+            }
+
+        }
+    }
+
 
     IEnumerator LoadAnimations()
     {
@@ -93,6 +118,7 @@ public class FileManagerUpdate : MonoBehaviour
         //string animationName = animationNameInput.text;
         if (loadedTextures.Count > 0)
         {
+            Debug.Log(loadedTextures.Count);
             playerAnimator.AddAnimation(animationName, loadedTextures);
 
             // clear loadedTextures

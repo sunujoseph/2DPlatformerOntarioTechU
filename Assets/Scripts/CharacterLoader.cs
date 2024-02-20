@@ -12,7 +12,7 @@ public class CharacterLoader : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        filePath = Application.persistentDataPath+"/Characters/";
+        filePath = Application.dataPath+"/Characters/";
         //Debug.Log(filePath);
 
         string[] characterDirectories = Directory.GetDirectories(filePath);
