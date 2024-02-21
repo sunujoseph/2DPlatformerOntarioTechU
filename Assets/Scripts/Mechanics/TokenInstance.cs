@@ -19,6 +19,7 @@ namespace Platformer.Mechanics
         [Tooltip("List of frames that make up the animation.")]
         public Sprite[] idleAnimation, collectedAnimation;
 
+
         internal Sprite[] sprites = new Sprite[0];
 
         internal SpriteRenderer _renderer;
@@ -57,6 +58,8 @@ namespace Platformer.Mechanics
             var ev = Schedule<PlayerTokenCollision>();
             ev.token = this;
             ev.player = player;
+
+            ScoreManager.instance.AddScore();
         }
     }
 }

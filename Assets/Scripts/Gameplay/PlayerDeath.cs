@@ -17,11 +17,14 @@ namespace Platformer.Gameplay
         public override void Execute()
         {
             var player = model.player;
+            //player.playerAnimator.PlayAnimation("Death");
             if (player.health.IsAlive)
             {
+                //player.playerAnimator.PlayAnimation("Death");
                 player.health.Die();
                 model.virtualCamera.m_Follow = null;
                 model.virtualCamera.m_LookAt = null;
+                //player.playerAnimator.PlayAnimation("Death");
                 // player.collider.enabled = false;
                 player.controlEnabled = false;
 

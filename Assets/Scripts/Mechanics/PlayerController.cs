@@ -55,13 +55,18 @@ namespace Platformer.Mechanics
 
         protected override void Update()
         {
+            
+
             if (!health.IsAlive)
             {
                 move = Vector2.zero;
                 velocity = Vector2.zero;
                 targetVelocity = Vector2.zero;
+                //playerAnimator.PlayAnimation("Death");
                 return;
             }
+            
+
 
             if (controlEnabled)
             {
@@ -101,7 +106,11 @@ namespace Platformer.Mechanics
                     }
                     break;
                 case JumpState.InFlight:
-                    playerAnimator.PlayAnimation("Jump");
+
+                    if (health.IsAlive)
+                    {
+                        playerAnimator.PlayAnimation("Jump");
+                    }       
                     if (IsGrounded)
                     {
                         Schedule<PlayerLanded>().player = this;

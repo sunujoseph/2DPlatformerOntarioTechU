@@ -49,6 +49,8 @@ namespace Platformer.Mechanics
         /// </summary>
         public void Die()
         {
+            //player.playerAnimator.PlayAnimation("Death");
+
             while (currentHP > 0) Decrement();
         }
 

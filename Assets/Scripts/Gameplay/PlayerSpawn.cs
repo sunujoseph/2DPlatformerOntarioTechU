@@ -27,15 +27,15 @@ namespace Platformer.Gameplay
         private IEnumerator waitForSpawn(PlayerController player)
         {
 
+            //player.playerAnimator.PlayAnimation("Death");
 
-            
 
             player.collider2d.enabled = true;
             player.controlEnabled = false;
             if (player.audioSource && player.respawnAudio)
                 player.audioSource.PlayOneShot(player.respawnAudio);
 
-            
+
 
             player.Teleport(model.spawnPoint.transform.position);
             player.jumpState = PlayerController.JumpState.Grounded;
@@ -44,7 +44,7 @@ namespace Platformer.Gameplay
             model.virtualCamera.m_Follow = player.transform;
             model.virtualCamera.m_LookAt = player.transform;
             yield return new WaitForSeconds(1);
-            Simulation.Schedule<EnablePlayerInput>(2f);
+            Simulation.Schedule<EnablePlayerInput>(1f);
 
             player.health.Increment();
         }

@@ -45,7 +45,7 @@ namespace Platformer.Gameplay
                 }
             }
             else
-            {
+            { 
                 Schedule<PlayerDeath>();
             }
         }
