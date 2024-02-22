@@ -11,9 +11,9 @@ public class CustomPlayerAnimator : MonoBehaviour
 
     [SerializeField] private SpriteRenderer mySpriteRenderer;
 
-    [SerializeField]private int frameRate;
+    [SerializeField]private float frameRate;
     private Coroutine currentAnimation;
-
+    private string currentAnimationName;
    
 
     public void AddAnimation(string animationName, List<Texture2D> listOfTextures )
@@ -38,17 +38,30 @@ public class CustomPlayerAnimator : MonoBehaviour
         }
     }
 
-    public void PlayAnimation(string animationName)
+    public void PlayAnimation(string animationName, bool shouldInterupt = false)
     {
+        if(currentAnimationName == animationName)
+        {
+            return;
+        }
+
         if (currentAnimation!= null)
         {
-           // StopCoroutine(currentAnimation);
-            //currentAnimation = null;
-            return;
+            if (shouldInterupt)
+            {
+                StopCoroutine(currentAnimation);
+                currentAnimation = null;
+            }
+            else
+            {
+                return;
+            }
+
         }
         if (animationFrames.ContainsKey(animationName))
         {
             currentAnimation = StartCoroutine(playAnimationCoroutine(animationFrames[animationName].ToArray()));
+            currentAnimationName = animationName;
         }
         
     }
@@ -58,9 +71,10 @@ public class CustomPlayerAnimator : MonoBehaviour
         {
             mySpriteRenderer.sprite = FilePics[i];
             //Debug.Log(i);
-            yield return new WaitForSecondsRealtime(1 / frameRate);
+            yield return new WaitForSecondsRealtime(1f / frameRate);
 
         }
         currentAnimation = null;
+        currentAnimationName = "";
     }
 }

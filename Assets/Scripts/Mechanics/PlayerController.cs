@@ -102,15 +102,11 @@ namespace Platformer.Mechanics
                     {
                         Schedule<PlayerJumped>().player = this;
                         jumpState = JumpState.InFlight;
-                        
+                        playerAnimator.PlayAnimation("Jump", true);
                     }
                     break;
                 case JumpState.InFlight:
-
-                    if (health.IsAlive)
-                    {
-                        playerAnimator.PlayAnimation("Jump");
-                    }       
+     
                     if (IsGrounded)
                     {
                         Schedule<PlayerLanded>().player = this;
@@ -150,7 +146,7 @@ namespace Platformer.Mechanics
             }
             else if (!jump && IsGrounded && move.x != 0.0f)
             {
-                playerAnimator.PlayAnimation("Run");
+                playerAnimator.PlayAnimation("Run", true);
             }
 
                 //animator.SetBool("grounded", IsGrounded);
