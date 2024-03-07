@@ -11,7 +11,7 @@ public class FileManagerUpdate : MonoBehaviour
 {
     [SerializeField] private CustomPlayerAnimator playerAnimator;
 
-    private List<Texture2D> loadedTextures = new List<Texture2D>();
+    //private List<Texture2D> loadedTextures = new List<Texture2D>();
     
 
     // Start is called before the first frame update
@@ -19,16 +19,21 @@ public class FileManagerUpdate : MonoBehaviour
 
     void Start()
     {
-        StartCoroutine(LoadAnimations());
+        //StartCoroutine(LoadAnimations());
         //LoadAnimationsFromResources();
+        CharacterSO myCharacterSO = CharacterTracker.instance.getMyCharacter();
 
+        for (int i = 0; i < myCharacterSO.animationInfo.Length; i++)
+        {
+            SaveAnimationFrames(myCharacterSO.animationInfo[i].name, myCharacterSO.animationInfo[i].sprites);
+        }
     }
-
+    /*
     void LoadAnimationsFromResources()
     {
         
 
-        string targetCharacterFolder = CharacterTracker.instance.getMyPath();
+        string targetCharacterFolder = CharacterTracker.instance.getMyCharacter();
         string[] AllAnimationFolders = Directory.GetDirectories(targetCharacterFolder);
 
         for (int i = 0; i < AllAnimationFolders.Length; i++)
@@ -59,7 +64,7 @@ public class FileManagerUpdate : MonoBehaviour
         }
 
 
-        string targetCharacterFolder = CharacterTracker.instance.getMyPath();
+        string targetCharacterFolder = CharacterTracker.instance.getMyCharacter();
         string[] AllAnimationFolders = Directory.GetDirectories(targetCharacterFolder);
 
         for (int i = 0; i < AllAnimationFolders.Length; i++)
@@ -112,17 +117,17 @@ public class FileManagerUpdate : MonoBehaviour
 
 
     }
-
-    public void SaveAnimationFrames(string animationName)
+    */
+    public void SaveAnimationFrames(string animationName, List<Sprite> sprites)
     {
         //string animationName = animationNameInput.text;
-        if (loadedTextures.Count > 0)
+        if (sprites.Count > 0)
         {
-            Debug.Log(loadedTextures.Count);
-            playerAnimator.AddAnimation(animationName, loadedTextures);
+            Debug.Log(sprites.Count);
+            playerAnimator.AddAnimation(animationName, sprites);
 
             // clear loadedTextures
-            loadedTextures.Clear();           
+            //sprites.Clear();           
         }
     }
 

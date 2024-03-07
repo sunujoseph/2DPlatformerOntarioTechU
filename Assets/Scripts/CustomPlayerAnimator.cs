@@ -16,17 +16,17 @@ public class CustomPlayerAnimator : MonoBehaviour
     private string currentAnimationName;
    
 
-    public void AddAnimation(string animationName, List<Texture2D> listOfTextures )
+    public void AddAnimation(string animationName, List<Sprite> listOfTextures )
     {
         if (animationFrames.ContainsKey(animationName))
         {
             // If the animation name already exists, replace its frames
-            animationFrames[animationName] = animationGen.GenerateAnimation(listOfTextures.ToArray());
+            animationFrames[animationName] = new List<Sprite>(listOfTextures);
         }
         else
         {
             //add a new entry to the dictionary
-            animationFrames.Add(animationName, animationGen.GenerateAnimation(listOfTextures.ToArray()));
+            animationFrames.Add(animationName, new List<Sprite>(listOfTextures));
         }
 
         Debug.Log("Animation Frames Saved: ");

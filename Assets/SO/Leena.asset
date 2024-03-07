@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8ea86462323f484dac4c70e0b0efba4, type: 3}
+  m_Name: Leena
+  m_EditorClassIdentifier: 
+  animationInfo:
+  - name: Idle
+    sprites:
+    - {fileID: 21300000, guid: 9042815b44a447d4d870b30f2b647329, type: 3}
+    - {fileID: 21300000, guid: 3ccec2d4c1c662c4aabb55fc29165af8, type: 3}
+    - {fileID: 21300000, guid: 6c7d1c8fe2a1af6428dcc27e650b3239, type: 3}
+    - {fileID: 21300000, guid: b41a1c31df9caf64992d3524f35fa171, type: 3}
+    - {fileID: 21300000, guid: 6c05610e93f887c46a272fffda686954, type: 3}
+    - {fileID: 21300000, guid: 2533ffc9a9a07594ebf0f4246a607efc, type: 3}
+    - {fileID: 21300000, guid: 9e34cf37499f35a4497d36f2f3cafe28, type: 3}
+    - {fileID: 21300000, guid: 3299d8fc380a74345b4438a1d9ee2fb3, type: 3}
+    - {fileID: 21300000, guid: 4d2211af818395e409884467d07d5861, type: 3}
+  - name: Death
+    sprites:
+    - {fileID: 21300000, guid: 589a61145f88c334c91a9317a22537f3, type: 3}
+    - {fileID: 21300000, guid: 1cc6992ec3d3b6545b45d0e8071123bd, type: 3}
+    - {fileID: 21300000, guid: 775ff13f99973fd4dbaf15b7c04a6899, type: 3}
+    - {fileID: 21300000, guid: 82b4b2587a998ac4b99c37fcc7f04639, type: 3}
+    - {fileID: 21300000, guid: 9d92c0331c0c02e44a787f0ef50acc0d, type: 3}
+    - {fileID: 21300000, guid: ec0e394658bfd17469085225a714c3ce, type: 3}
+    - {fileID: 21300000, guid: 1c2f4edf7e5069c40ad314bbba618705, type: 3}
+    - {fileID: 21300000, guid: 1a56c382050a2894e8041fb93948e6a6, type: 3}
+    - {fileID: 21300000, guid: 2b49549a130c6644099f3ccf16836074, type: 3}
+  - name: Run
+    sprites:
+    - {fileID: 21300000, guid: a074e1d98d36e0a4ab74aa39c384a14d, type: 3}
+    - {fileID: 21300000, guid: bfa21dae07b826c4db4c33799321e99b, type: 3}
+    - {fileID: 21300000, guid: 81e9f0a27fbce62458af6dc1ce5667bc, type: 3}
+    - {fileID: 21300000, guid: 328412447c418c749aed455478b11c7f, type: 3}
+    - {fileID: 21300000, guid: 4f90ac5c96216eb4eb10f04e3e14090a, type: 3}
+    - {fileID: 21300000, guid: 5864867db468f9f48818565f721336fe, type: 3}
+    - {fileID: 21300000, guid: f04aee70849e021418cfd97b8a18742d, type: 3}
+    - {fileID: 21300000, guid: d56cc795c85141c4aa3bfbbf509dccbf, type: 3}
+  - name: Jump
+    sprites:
+    - {fileID: 21300000, guid: bb83c645fb5b40d46b84ded7b34acff3, type: 3}
+    - {fileID: 21300000, guid: 1530095003b6dae46b70c7774d0f08ba, type: 3}
+    - {fileID: 21300000, guid: a65aac34038fa4b46bbfff359b22a1ce, type: 3}
+    - {fileID: 21300000, guid: 898c777a3be09a44b84b6ec0fa24918a, type: 3}
+    - {fileID: 21300000, guid: 55ec095f026217a41857985254548ae2, type: 3}
+    - {fileID: 21300000, guid: 0b4d7a813aa87a34493492324733752c, type: 3}
+    - {fileID: 21300000, guid: f1687f8c03de7494c966ad6312b8f1b0, type: 3}
+    - {fileID: 21300000, guid: 2ad6d77618fbb514aa40e31fe703c462, type: 3}
+    - {fileID: 21300000, guid: 6d03544ce4d5ff64a9f7b1630b89bdad, type: 3}
+  - name: Spawn
+    sprites:
+    - {fileID: 21300000, guid: 4f9ba028b15d9ce4abc04b793ea54a43, type: 3}
+    - {fileID: 21300000, guid: 4e7095a604d6a9b418037b039b2c54dc, type: 3}
+    - {fileID: 21300000, guid: 41507719fa127ae48b04a39f6072ed24, type: 3}
+    - {fileID: 21300000, guid: 5f80dc051bba9d34a9e55c30220d20c0, type: 3}
+    - {fileID: 21300000, guid: 62af19017fe90884491666335658b3f0, type: 3}
+    - {fileID: 21300000, guid: d30b3ef05f05b4244a678243a607d77d, type: 3}
+    - {fileID: 21300000, guid: fa8fb5459e135644a91c3fc9899660a9, type: 3}
+    - {fileID: 21300000, guid: 95855f56a0191ea47ae43b94cd86ad08, type: 3}

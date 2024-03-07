@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CharacterTracker : MonoBehaviour
 {
-    private string myPath;
+    private CharacterSO character;
 
     public static CharacterTracker instance;
 
@@ -29,13 +29,13 @@ public class CharacterTracker : MonoBehaviour
         
     }
 
-    public void setMyPath(string currentPath)
+    public void setMyCharacter(CharacterSO characterSO)
     {
-        myPath = currentPath;
+        character = characterSO;
     }
 
-    public string getMyPath()
+    public CharacterSO getMyCharacter()
     {
-        return myPath;
+        return character;
     }
 }

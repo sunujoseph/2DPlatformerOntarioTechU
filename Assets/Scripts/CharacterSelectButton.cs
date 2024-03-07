@@ -10,19 +10,21 @@ public class CharacterSelectButton : MonoBehaviour
 {
     [SerializeField] private RawImage thumbnailImage;
 
-    string myPath;
+    CharacterSO myCharacter;
 
 
-    public void Intialize(string path)
+    public void Intialize(CharacterSO characterSO)
     {
-        string idleFolderPath = path + "/Idle";
+        //string idleFolderPath = path + "/Idle";
 
-        myPath = path;
+        //myPath = path;
 
-        string[] thumbNails = Directory.GetFiles(idleFolderPath);
+        //string[] thumbNails = Directory.GetFiles(idleFolderPath);
 
-        StartCoroutine(LoadThumbnailImage(thumbNails[0]));
+        //StartCoroutine(LoadThumbnailImage(thumbNails[0]));
+        thumbnailImage.texture = characterSO.animationInfo[0].sprites[0].texture;
 
+        myCharacter = characterSO;
        
     }
 
@@ -49,7 +51,7 @@ public class CharacterSelectButton : MonoBehaviour
     public void OnClick()
     {
         // tell character tracker the correct file path
-        CharacterTracker.instance.setMyPath(myPath);
+        CharacterTracker.instance.setMyCharacter(myCharacter);
 
 
         // load the next scene
