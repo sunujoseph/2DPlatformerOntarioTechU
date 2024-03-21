@@ -6,6 +6,7 @@ Using an Custom Player Animator
 Final Builds Results:
 
 https://gdimcommunityactivities.itch.io/put-yourself-in-the-game-2d-gdim-activity-feb-21
+
 https://gdimcommunityactivities.itch.io/event-put-yourself-in-the-game-thurs-feb-22-2024 
 
 Documentation: 
