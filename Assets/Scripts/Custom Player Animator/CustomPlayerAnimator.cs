@@ -3,11 +3,30 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Playables;
 
+/*
+ * Custom Player Animator
+ * Gets the our animation frames from FileManagerUpdate's CharacterSO
+ * Handles how our animations are played on our Character
+ * 
+ * This script is attached to the Player Character
+ * This script also requires the Player Character's Sprite Renderer
+ * 
+ * To play animations
+ * Create a CustomPlayerAnimator variable within this script 
+ * (Ex. public CustomPlayerAnimator playerAnimator)
+ * 
+ * To play an animation simply use the following function:
+ * playerAnimator.PlayAnimation(string "AnimationName", bool ShouldInterrupt);
+ * AnimationName is the name of the animation, same name of your animation folders
+ * ShouldInterrupt is whether you want to Interrupt and Stop a currently playing animation
+ * to play a new animation
+ * ShouldInterrupt is considered false by default
+ */
+
 public class CustomPlayerAnimator : MonoBehaviour
 {
     private Dictionary<string, List<Sprite>> animationFrames = new Dictionary<string, List<Sprite>>();
 
-    //[SerializeField] private DynamicAnimationGen animationGen;
 
     [SerializeField] private SpriteRenderer mySpriteRenderer;
 
@@ -15,7 +34,7 @@ public class CustomPlayerAnimator : MonoBehaviour
     private Coroutine currentAnimation;
     private string currentAnimationName;
    
-
+    //Add new Animation to this Character from Animation Folders
     public void AddAnimation(string animationName, List<Sprite> listOfTextures )
     {
         if (animationFrames.ContainsKey(animationName))
@@ -29,6 +48,7 @@ public class CustomPlayerAnimator : MonoBehaviour
             animationFrames.Add(animationName, new List<Sprite>(listOfTextures));
         }
 
+        //Debug to Check if animations are saved
         Debug.Log("Animation Frames Saved: ");
         foreach (var pair in animationFrames)
         {
@@ -36,9 +56,12 @@ public class CustomPlayerAnimator : MonoBehaviour
             Debug.Log("Frames Count: " + pair.Value.Count);
 
         }
+
     }
 
-    public void PlayAnimation(string animationName, bool shouldInterupt = false)
+    //Play animation from Animation Frames
+    //Call function to play animation
+    public void PlayAnimation(string animationName, bool shouldInterrupt = false)
     {
         if(currentAnimationName == animationName)
         {
@@ -47,7 +70,7 @@ public class CustomPlayerAnimator : MonoBehaviour
 
         if (currentAnimation!= null)
         {
-            if (shouldInterupt)
+            if (shouldInterrupt)
             {
                 StopCoroutine(currentAnimation);
                 currentAnimation = null;

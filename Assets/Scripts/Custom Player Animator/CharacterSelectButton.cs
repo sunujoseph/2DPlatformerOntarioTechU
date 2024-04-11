@@ -6,6 +6,17 @@ using UnityEngine.Networking;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
+/*
+ * This Script goes on a Button Prefab
+ * Character Select Button will take our CharacterSO from our CharacterLoader Script
+ * It will also take the first frame from the first animation within our CharacterSO 
+ * Using it as a Thumbnail for the button
+ * 
+ * On Clicking the button
+ * we store our CharacterSO we selected into our Character Tracker instance object
+ * as well move to next scene
+ */
+
 public class CharacterSelectButton : MonoBehaviour
 {
     [SerializeField] private RawImage thumbnailImage;
@@ -15,35 +26,14 @@ public class CharacterSelectButton : MonoBehaviour
 
     public void Intialize(CharacterSO characterSO)
     {
-        //Non-WebGL Code
-        //string idleFolderPath = path + "/Idle";
-        //myPath = path;
-        //string[] thumbNails = Directory.GetFiles(idleFolderPath);
-        //StartCoroutine(LoadThumbnailImage(thumbNails[0]));
-
+        // get a thumbnail from first animation's first frame
         thumbnailImage.texture = characterSO.animationInfo[0].sprites[0].texture;
+
+        // load CharacterSO within variable
         myCharacter = characterSO;
        
     }
 
-    IEnumerator LoadThumbnailImage(string path)
-    {
-        using (UnityWebRequest uwr = UnityWebRequestTexture.GetTexture(path))
-        {
-            yield return uwr.SendWebRequest();
-
-            if (uwr.isNetworkError || uwr.isHttpError)
-            {
-                Debug.Log(uwr.error);
-            }
-            else
-            {
-                var uwrTexture = DownloadHandlerTexture.GetContent(uwr);
-                thumbnailImage.texture = uwrTexture;
-
-            }
-        }
-    }
 
 
     public void OnClick()

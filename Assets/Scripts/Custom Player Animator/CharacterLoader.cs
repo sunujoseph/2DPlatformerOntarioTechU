@@ -4,6 +4,14 @@ using UnityEngine;
 using System.IO;
 using UnityEngine.TextCore.Text;
 
+/*
+ * Character Loader gets our CharacterSOs and loads them within a Character Select Screen
+ * 
+ * We take a Button Prefab with our Character Select Button Script
+ * contents is our UI Layout where we will populate our Button Prefab
+ * characterFiles is our CharacterSOs to be applied within our Button Prefab
+ */
+
 
 public class CharacterLoader : MonoBehaviour
 {
@@ -15,12 +23,6 @@ public class CharacterLoader : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //filePath = Application.dataPath + "/Characters/";
-        //filePath = Path.Combine(Application.streamingAssetsPath) + "/Characters/";
-        
-        //Debug.Log(filePath);
-
-        //string[] characterDirectories = Directory.GetDirectories(filePath);
 
         for (int i = 0; i < characterFiles.Length; i++)
         {
