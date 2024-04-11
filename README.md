@@ -14,6 +14,10 @@ Documentation:
 
 https://docs.google.com/document/d/11r7S27zzUcyc7tlR246yCqwLzPRc-qn430OQ84u9fj4/edit 
 
+Backup Project Download Link:
+
+https://drive.google.com/drive/u/1/folders/13bJSxPstz65Eq1NtoBm80jhtsz1YTpd_
+
 ## Known Bugs
 While playing the game through Editor, sometimes the frames saved on CharacterSOs’ on some animations are removed and have to click Build again on the CharacterSO.
 
